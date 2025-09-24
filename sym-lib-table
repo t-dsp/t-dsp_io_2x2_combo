@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SC18IS606PWJ")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/SC18IS606PWJ.kicad_sym")(options "")(descr ""))
+  (lib (name "5173N24-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/5173N24-U.kicad_sym")(options "")(descr ""))
+  (lib (name "1510S08-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/1510S08-U.kicad_sym")(options "")(descr ""))
+  (lib (name "1583N16-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/1583N16-U.kicad_sym")(options "")(descr ""))
+)
