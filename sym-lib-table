@@ -4,4 +4,5 @@
   (lib (name "5173N24-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/5173N24-U.kicad_sym")(options "")(descr ""))
   (lib (name "1510S08-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/1510S08-U.kicad_sym")(options "")(descr ""))
   (lib (name "1583N16-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/1583N16-U.kicad_sym")(options "")(descr ""))
+  (lib (name "PGA2505IDB")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/PGA2505IDB.kicad_sym")(options "")(descr ""))
 )
