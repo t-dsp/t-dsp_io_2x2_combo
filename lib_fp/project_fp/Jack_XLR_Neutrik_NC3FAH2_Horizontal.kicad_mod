@@ -450,7 +450,7 @@
 		(uuid "756b8f65-ca8c-43b6-b4f8-a2ea7693c12e")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3d_models/nc3fah2.stp"
+	(model "${KIPRJMOD}/lib_fp/project_fp/nc3fah2.stp"
 		(offset
 			(xyz 7.25 -4 12.5)
 		)

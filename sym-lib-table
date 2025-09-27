@@ -5,4 +5,6 @@
   (lib (name "1510S08-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/1510S08-U.kicad_sym")(options "")(descr ""))
   (lib (name "1583N16-U")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/1583N16-U.kicad_sym")(options "")(descr ""))
   (lib (name "PGA2505IDB")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/PGA2505IDB.kicad_sym")(options "")(descr ""))
+  (lib (name "COMBO_XLR_NCJ6FI-H-0")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/COMBO_XLR_NCJ6FI-H-0.kicad_sym")(options "")(descr ""))
+  (lib (name "XLRM_NC3MAH")(type "KiCad")(uri "${KIPRJMOD}/lib_fp/project_fp/XLRM_NC3MAH.kicad_sym")(options "")(descr ""))
 )
