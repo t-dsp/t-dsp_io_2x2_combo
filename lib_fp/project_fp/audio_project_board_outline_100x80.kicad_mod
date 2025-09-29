@@ -311,8 +311,8 @@
 		(uuid "418ab10d-763e-4113-8f69-e2ed18f3dfc2")
 	)
 	(fp_rect
-		(start 0 -99.9812)
-		(end 80 -0.0189)
+		(start 0 -100)
+		(end 80 0)
 		(stroke
 			(width 0.1)
 			(type solid)
