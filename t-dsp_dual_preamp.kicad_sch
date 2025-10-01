@@ -7435,7 +7435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "project_fp:audio_project_board_outline_100x50_minus2mounts"
+		(property "Footprint" "project_fp:audio_project_board_outline_100x50_minus4mounts"
 			(at 293.37 1036.066 0)
 			(effects
 				(font
@@ -7962,13 +7962,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "aa09eea9-dadf-4eca-9593-1fe47c8f23d3")
+			(uuid "aa09eea9-dadf-4eca-9593-1fe47c8f23d4")
 		)
 		(pin "2"
-			(uuid "28ba9b9d-f306-4f53-9997-d932189578c4")
+			(uuid "28ba9b9d-f306-4f53-9997-d932189578c5")
 		)
 		(pin "G"
-			(uuid "16ca3a0b-0254-4397-a93b-4f0dfd835aa3")
+			(uuid "16ca3a0b-0254-4397-a93b-4f0dfd835aa4")
 		)
 		(pin "T"
 			(uuid "1b926f0c-f24d-4c76-a87a-4b255bfea8df")
@@ -7980,7 +7980,7 @@
 			(uuid "5a222554-7222-4820-ad60-a5f79d5857bc")
 		)
 		(pin "1"
-			(uuid "cf88632e-a7e9-4330-8962-effb53074956")
+			(uuid "cf88632e-a7e9-4330-8962-effb53074957")
 		)
 		(instances
 			(project "t-dsp_dual_preamp"
@@ -8684,25 +8684,25 @@
 			)
 		)
 		(pin "3"
-			(uuid "aa09eea9-dadf-4eca-9593-1fe47c8f23d3")
+			(uuid "aa09eea9-dadf-4eca-9593-1fe47c8f23d5")
 		)
 		(pin "2"
-			(uuid "28ba9b9d-f306-4f53-9997-d932189578c4")
+			(uuid "28ba9b9d-f306-4f53-9997-d932189578c6")
 		)
 		(pin "G"
-			(uuid "16ca3a0b-0254-4397-a93b-4f0dfd835aa3")
+			(uuid "16ca3a0b-0254-4397-a93b-4f0dfd835aa5")
 		)
 		(pin "T"
-			(uuid "b48056da-ff82-4c7f-882f-055f63091c3d")
+			(uuid "b48056da-ff82-4c7f-882f-055f63091c3f")
 		)
 		(pin "S"
-			(uuid "d2bbf53a-2850-4f47-a1b6-3035d4525c4b")
+			(uuid "d2bbf53a-2850-4f47-a1b6-3035d4525c4d")
 		)
 		(pin "R"
-			(uuid "333847db-74e5-4239-8329-2a43ecf17abf")
+			(uuid "333847db-74e5-4239-8329-2a43ecf17ac1")
 		)
 		(pin "1"
-			(uuid "cf88632e-a7e9-4330-8962-effb53074956")
+			(uuid "cf88632e-a7e9-4330-8962-effb53074958")
 		)
 		(instances
 			(project ""

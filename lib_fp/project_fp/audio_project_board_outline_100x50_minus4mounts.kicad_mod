@@ -1,0 +1,155 @@
+(footprint "audio_project_board_outline_100x50_minus4mounts"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "board_outline2"
+		(at 4.55 5.5 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "921d41d9-6512-4375-9460-95149c15d763")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "board"
+		(at 0 3.81 180)
+		(layer "F.Fab")
+		(uuid "eceb45c0-0f0e-4c0d-8140-da3c7281a6c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c07c7e03-b9e5-4e38-9912-dc8742317e86")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "952abef2-3951-4762-9a6a-ad24ec079901")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digikey" "-"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5fce8f1-560d-4f37-8b0a-e0816dc13d1f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "-"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10c2d625-29f7-48b7-9083-3771c7312812")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "-"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "30a28665-1241-4d98-8d93-9fd5964c0273")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package / Case" "board"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "738115b4-7793-409b-b169-40f7c410f21b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "mouser" "-"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32ddaef6-c03d-4856-9d72-8cc17d27298b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -100)
+		(end 50 -100)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bf28d6b0-523d-4682-ae0a-5bff58bc1d8c")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -100)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f48fcaca-cd68-4a94-92e4-4eeab0be0330")
+	)
+	(fp_line
+		(start 0 0)
+		(end 50 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7ed08395-21d0-4243-8287-6515984bf2f4")
+	)
+	(fp_line
+		(start 50 0)
+		(end 50 -100)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b157bbb8-52b7-471e-853a-79506a559d5c")
+	)
+	(embedded_fonts no)
+)
