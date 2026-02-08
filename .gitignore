@@ -29,3 +29,20 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Claude Code local settings
+.claude/
+
+# Downloaded component libraries (keep locally, not in repo)
+lib.dl/
+
+# Old revision files
+revisions/
+
+# Windows artifacts
+nul
+
+# 3D model exports (large STEP files in root and 3d_models/)
+# Note: .step/.stp files in lib_fp/ are kept (component models for PCB 3D view)
+/3d_models/
+/*.step
