@@ -58,6 +58,10 @@ This board is a **backplane** -- a carrier PCB that hosts the TAC5212 Pro Audio 
 
 This board has not yet been built. If you build one, we'd love to hear how it goes -- please open an issue or reach out with your findings.
 
+## Related Projects
+
+Browse all T-DSP modules and backplanes on the [T-DSP GitHub organization](https://github.com/orgs/t-dsp/repositories).
+
 ## Contact
 
 For consulting, custom backplane design, or commercial licensing inquiries, reach out via [LinkedIn](https://linkedin.com/in/jayshoe).
