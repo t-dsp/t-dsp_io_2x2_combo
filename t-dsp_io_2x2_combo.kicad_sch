@@ -6375,7 +6375,7 @@
 			(uuid "242e80c3-348e-4eef-b7c0-857be0565386")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "C7")
 					(unit 1)
@@ -6462,7 +6462,7 @@
 			(uuid "89ab2a84-8626-4fd8-9227-620ca2033aed")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "C8")
 					(unit 1)
@@ -7528,7 +7528,7 @@
 			(uuid "19924f03-095d-4f61-99be-9d12e68a2661")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "board_outline3")
 					(unit 1)
@@ -7817,7 +7817,7 @@
 			(uuid "3b7296b4-9074-4070-9ae8-e22d4df38aa4")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "J2")
 					(unit 1)
@@ -7983,7 +7983,7 @@
 			(uuid "cf88632e-a7e9-4330-8962-effb53074957")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "J10")
 					(unit 2)
@@ -8094,7 +8094,7 @@
 			(uuid "cec772b5-ef62-4abe-87ae-8bc82915133e")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "J11")
 					(unit 1)
@@ -8374,7 +8374,7 @@
 			(uuid "dc3887a1-3fe7-4803-a26f-12f2b9310cfe")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "C9")
 					(unit 1)
@@ -8539,7 +8539,7 @@
 			(uuid "6a6c40f3-14ab-4f1d-a4bc-807d0162e7bd")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "J7")
 					(unit 1)
@@ -8622,7 +8622,7 @@
 			(uuid "d8ac5f48-c577-4421-9b92-a4d1125dbf55")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "J10")
 					(unit 1)
@@ -8957,7 +8957,7 @@
 			(uuid "f3c18b98-0312-494a-b005-651e47050282")
 		)
 		(instances
-			(project "t-dsp_dual_preamp"
+			(project "t-dsp_io_2x2_combo"
 				(path "/87d0b0ed-940a-4d70-b9aa-9c087f7f2a41"
 					(reference "C6")
 					(unit 1)

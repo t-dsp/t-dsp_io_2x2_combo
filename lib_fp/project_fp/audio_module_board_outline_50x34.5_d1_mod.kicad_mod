@@ -1165,7 +1165,7 @@
 		)
 	)
 	(fp_text user "All pins and mounting holes 2.54\" OC"
-		(at 6 -33 0)
+		(at 8.59 -35.0075 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "6eb21ef6-a9b9-423f-a28f-e251ee764ba2")
@@ -1193,7 +1193,7 @@
 		(layer "F.Fab")
 		(uuid "24aadf25-c651-4e84-bb3f-0b5a517e3066")
 		(pts
-			(xy 147.8 23.3975) (xy 147.8 49.8575)
+			(xy 0 -26.46) (xy 0 0)
 		)
 		(height -5.5)
 		(orientation 1)
@@ -1214,7 +1214,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "26.4600 mm"
-			(at 141.2 36.6275 90)
+			(at -6.6 -13.23 90)
 			(layer "F.Fab")
 			(uuid "24aadf25-c651-4e84-bb3f-0b5a517e3066")
 			(effects
@@ -1230,7 +1230,7 @@
 		(layer "F.Fab")
 		(uuid "437595c0-ad0c-489a-a956-f64a41b6ee52")
 		(pts
-			(xy 149.76 48.0575) (xy 187.86 48.0575)
+			(xy 0 0) (xy 38.1 0)
 		)
 		(height 13.3)
 		(orientation 0)
@@ -1251,7 +1251,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "38.1000 mm"
-			(at 168.81 60.2575 0)
+			(at 19.05 12.2 0)
 			(layer "F.Fab")
 			(uuid "437595c0-ad0c-489a-a956-f64a41b6ee52")
 			(effects
@@ -1267,7 +1267,7 @@
 		(layer "F.Fab")
 		(uuid "4621077c-8c76-4044-89bf-c75640815d54")
 		(pts
-			(xy 147.8 23.3975) (xy 189.8 23.3975)
+			(xy 0.39 -28.61) (xy 42.39 -28.61)
 		)
 		(height -9.54)
 		(orientation 0)
@@ -1288,7 +1288,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "42.0000 mm"
-			(at 168.8 12.7575 0)
+			(at 21.39 -39.25 0)
 			(layer "F.Fab")
 			(uuid "4621077c-8c76-4044-89bf-c75640815d54")
 			(effects
@@ -1304,7 +1304,7 @@
 		(layer "F.Fab")
 		(uuid "52820a8d-9a19-4afd-992b-0fc20b2fd0dc")
 		(pts
-			(xy 149.76 25.1975) (xy 159.92 25.1975)
+			(xy 2.35 -26.81) (xy 12.51 -26.81)
 		)
 		(height -5.34)
 		(orientation 0)
@@ -1325,7 +1325,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "10.1600 mm"
-			(at 154.84 18.7575 0)
+			(at 7.43 -33.25 0)
 			(layer "F.Fab")
 			(uuid "52820a8d-9a19-4afd-992b-0fc20b2fd0dc")
 			(effects
@@ -1341,7 +1341,7 @@
 		(layer "F.Fab")
 		(uuid "6e9d3bc0-9633-431b-a361-6e70729347e2")
 		(pts
-			(xy 187.86 25.1975) (xy 187.86 48.0575)
+			(xy 42.56 -26.46) (xy 42.56 -3.6)
 		)
 		(height 8.44)
 		(orientation 1)
@@ -1362,7 +1362,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "22.8600 mm"
-			(at 195.2 36.6275 90)
+			(at 49.9 -15.03 90)
 			(layer "F.Fab")
 			(uuid "6e9d3bc0-9633-431b-a361-6e70729347e2")
 			(effects
@@ -1378,7 +1378,7 @@
 		(layer "F.Fab")
 		(uuid "bf3aca68-703f-44f3-ad4d-4f5f98a2d7e5")
 		(pts
-			(xy 149.76 48.0575) (xy 165.015 48.0575)
+			(xy 0 0) (xy 15.255 0)
 		)
 		(height 7.8)
 		(orientation 0)
@@ -1399,7 +1399,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "15.2550 mm"
-			(at 157.3875 54.7575 0)
+			(at 7.6275 6.7 0)
 			(layer "F.Fab")
 			(uuid "bf3aca68-703f-44f3-ad4d-4f5f98a2d7e5")
 			(effects
@@ -1415,7 +1415,7 @@
 		(layer "F.Fab")
 		(uuid "e1887401-d5a0-4dc6-b24e-4de781b00ae3")
 		(pts
-			(xy 159.92 25.1975) (xy 187.86 25.1975)
+			(xy 12.51 -26.81) (xy 40.45 -26.81)
 		)
 		(height -5.34)
 		(orientation 0)
@@ -1436,7 +1436,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "27.9400 mm"
-			(at 173.89 18.7575 0)
+			(at 26.48 -33.25 0)
 			(layer "F.Fab")
 			(uuid "e1887401-d5a0-4dc6-b24e-4de781b00ae3")
 			(effects
@@ -2048,7 +2048,7 @@
 			(xyz 180 0 0)
 		)
 	)
-	(model "C:/github/kicad/tac5212_audio_board_single_ended/3d_models/T-DSP_TAC5212_PRO_AUDIO_MODULE.step"
+	(model "${KIPRJMOD}/3d_models/t-dsp_tac5212_pro_audio_module_ribbon.step"
 		(offset
 			(xyz 2 2 9)
 		)
@@ -2082,6 +2082,7 @@
 		)
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical.wrl"
+		(hide yes)
 		(offset
 			(xyz 2 24.5 0)
 		)
@@ -2090,6 +2091,17 @@
 		)
 		(rotate
 			(xyz 0 0 0)
+		)
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step"
+		(offset
+			(xyz 17.5 2.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
 		)
 	)
 )
