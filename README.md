@@ -39,6 +39,7 @@ This board is a **backplane** -- a carrier PCB that hosts the TAC5212 Pro Audio 
 - [Schematic PDF](documentation/t-dsp_io_2x2_combo-schematic.pdf)
 - [Schematic (KiCanvas)](https://kicanvas.org/?github=https://github.com/t-dsp/t-dsp_io_2x2_combo/blob/main/t-dsp_io_2x2_combo.kicad_sch)
 - [PCB Layout (KiCanvas)](https://kicanvas.org/?github=https://github.com/t-dsp/t-dsp_io_2x2_combo/blob/main/t-dsp_io_2x2_combo.kicad_pcb)
+- [3D Model (STL)](documentation/t-dsp_io_2x2_combo.stl)
 - [Interactive BOM](https://t-dsp.github.io/t-dsp_io_2x2_combo/bom/ibom.html)
 
 ## Project Files
